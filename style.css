@@ -1,0 +1,38 @@
+.header-menu {
+    margin-left: 1030px;
+}
+
+.menu {
+    font-family: Roboto;
+    display: inline-flex;
+    color: rgba(0,0,0,0.87);
+    font-size: 12px;
+    margin-left: 15px;
+    vertical-align: middle;
+}
+
+#box-menu {
+    height: 22px;
+    width: 22px;
+}
+
+#login {
+    
+    font-size: 14px;
+    color: white;
+    background-color: #1a73e8;
+    margin-left: 30px;
+    padding: 8px 22px 8px 22px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+}
+
+.doodle {
+
+    text-align: center;
+    
+}
+
+#doodle-img {
+    height: 150px;
+}
