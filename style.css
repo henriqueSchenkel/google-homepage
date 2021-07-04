@@ -1,3 +1,5 @@
+
+
 .header-menu {
     margin-left: 1035px;
 }
@@ -11,10 +13,7 @@
     vertical-align: middle;
 }
 
-#box-menu {
-    height: 20px;
-    width: 20px;
-}
+
 
 #login {
     
@@ -30,11 +29,13 @@
 .doodle {
 
     text-align: center;
-    
+    margin-top: 90px;
 }
 
 #doodle-img {
-    height: 150px;
+    height: 92px;
+    aspect-ratio: auto 272 / 92;
+    width: 272px;
 }
 
 .search {
@@ -42,34 +43,26 @@
     vertical-align: middle;
     margin-left: auto;
     margin-right: auto;
-    height: 40px;
-    width: 600px;
+    height: 43px;
+    width: 575px;
     margin-top: 20px;
-    border: 1px solid gray;
+    border: 1px solid rgb(226, 226, 226);
     border-radius: 50px;
 }
 
-#magnifier {
-    
-    height: 20px;
+#magnifier{
+    color: gray;
     margin-top: 10px;
-    margin-left: 15px;
+    margin-left: 10px;
 }
 
-#keyboard {
-
-    margin-bottom: 5px;
-    margin-left: 470px;
-}
-
-#microphone {
-    height: 20px;
-    margin-left: 20px;
+#mic {
+    margin-left: 525px;
 }
 
 .search-buttons {
 
-    font-size: 14px;
+    sfont-size: 14px;
     font-family: roboto;
     color: black;
     width: 1000px;
@@ -99,21 +92,10 @@
     display: inline-block;
 }
 
-#country {
-
-    background-color: blue;
-    width: 100%;
-    height: 50px;
-}
-
-#brazil{
-    
-}
-
 #footer {
 
     width: 100%;
-    height: 50px;
+    height: 35px;
     margin-top: 240px;
     background-color: red;
 }
